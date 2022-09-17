@@ -9,6 +9,10 @@ Given the root of a binary tree, return the inorder traversal of its nodes' valu
  
 """
 from typing import Optional, List
+<<<<<<< HEAD
+=======
+
+>>>>>>> ed69d9858fca36247597ad835589f58e28c325ad
 
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
